@@ -1,0 +1,1 @@
+Self study Kubernetes by reading and practicing K8s via Kubernetes in Action book.
